@@ -1,3 +1,4 @@
 ```
-python helloworld_test.py
+pip install pytest
+pytest
 ```
